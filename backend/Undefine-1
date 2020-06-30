@@ -1,0 +1,14 @@
+{
+	"name": "Mercado do Zézin",
+	"email": "contato@zezin.com.br",
+	"whatsapp": "479992838929",
+	"latitude": -41.20349,
+	"longitude": -38.1231048,
+	"city": "São Paulo",
+	"uf": "SP",
+	"items": [
+		1,
+		2,
+		6
+	]
+}
