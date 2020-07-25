@@ -34,4 +34,4 @@ You can view the project layout in the format through [this link] (https://www.f
 
 ## Demonstração/Demonstration
 
-![Gif do Ecoleta](https://github.com/Rodrigo001-de/Projeto-Ecoleta-advanced/upload/master)
+![Gif do Ecoleta]()
