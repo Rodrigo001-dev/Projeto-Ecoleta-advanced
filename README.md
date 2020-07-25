@@ -22,10 +22,10 @@ This application was developed for study but its theme is that waste collection 
 
 This project was developed with the following technologies:
 
-- [Node.js] (https://nodejs.org/en/)
-- [React] (https://reactjs.org)
-- [React Native] (https://facebook.github.io/react-native/)
-- [Expo] (https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ## 🔖 Layout
 
