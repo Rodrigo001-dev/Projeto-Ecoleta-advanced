@@ -35,3 +35,10 @@ You can view the project layout in the format through [this link] (https://www.f
 ## Demonstração/Demonstration
 
 ![Gif do Ecoleta](https://github.com/Rodrigo001-de/Projeto-Ecoleta-advanced/blob/master/Ecoleta.gif)
+
+
+## Aviso mobile/ Mobile notice
+
+Infelizmente eu não consegui ainda fazer uma demonstração da versão mobile do App.
+
+Unfortunately I have not yet managed to demonstrate the mobile version of the App.
