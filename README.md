@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 
 ## 🔖 Layout
 
-You can view the project layout in the format through [this link] (https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1).
+You can view the project layout in the format through [this link](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1).
 
 
 ## Demonstração/Demonstration
